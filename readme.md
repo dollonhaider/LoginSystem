@@ -2,13 +2,13 @@
 
 ##Project Description
 
-There is two api in this system.One is register api and another one is login api.
+I had build this project using IntelliJ.There is two api in this system.One is register api and another one is login api.
 
 Register Api - To do regitration you need to put a valid email address and password.If anyone put invalid email
-			   address it will generate error message.
+	 address it will generate error message.
 			   
 Login Api - To do login you need to put a registered email address and password.If it didn't match with the database 
-			it will show error message.If it matches it will show a success message.
+	    it will show error message.If it matches it will show a success message.
 
 ## Getting Started
 
